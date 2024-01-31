@@ -1,3 +1,3 @@
 # CRUD-Farmacia #
 
-## Projeto de finalização do módulo 2 do Bootcamp da Generation Brasil ##
+## Projeto de finalização do módulo 2 sobre SpringBoot do Bootcamp da Generation Brasil ##
